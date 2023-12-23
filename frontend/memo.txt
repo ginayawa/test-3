@@ -10,6 +10,8 @@ volta
 
   node -v
 
+flask
+  flask --app app run
 
 next.js
   npx create-next-app@latest
